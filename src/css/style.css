@@ -48,10 +48,11 @@
   padding: 20px;
 }
 .item th {
-  background-color: rgba(36, 72, 117, 0.636);
+  background-color: rgba(33, 137, 192, 0.636);
   color: white;
   text-transform: uppercase;
   font-size: 14px;
+ 
 }
 
 .item tr:hover {
